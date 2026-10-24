@@ -1,3 +1,5 @@
+> **Attribution:** This repository is a copy of [Plandex](https://github.com/plandex-ai/plandex) by PlandexAI Inc., uploaded for personal study and experimentation. It is not my original work. The original is released under the MIT License; the license file is included in [LICENSE](LICENSE).
+
 <h1 align="center" >
   Terminal Based Coding Agent<br/><br/>
 </h1>
@@ -39,5 +41,5 @@
 - 📂 **Git integration** with commit message generation and optional automatic commits.
 
 <h3 align="center" >
-  Made By Abhiram Kaakarla <br/><br/>
+  Copied for study by Abhiram Kaakarla; original by PlandexAI Inc. <br/><br/>
 </h3>
